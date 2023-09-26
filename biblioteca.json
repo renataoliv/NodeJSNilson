@@ -1,0 +1,271 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "Romance",
+      "id": 4
+    },
+    {
+      "nome": "Poesia",
+      "id": 5
+    },
+    {
+      "nome": "Fantasia",
+      "id": 6
+    },
+    {
+      "nome": "Ficção Científica",
+      "id": 7
+    },
+    {
+      "nome": "História da Arte",
+      "id": 8
+    },
+    {
+      "nome": "Política ",
+      "id": 9
+    },
+    {
+      "nome": "Literatura Contemporânea ",
+      "id": 10
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 4,
+      "id": 4
+    },
+    {
+      "titulo": "O Guardador de Rebanhos",
+      "autor": "Fernando Pessoa",
+      "anoPublicacao": 1669,
+      "isbn": "978-85-359-0287-8",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 5
+    },
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "anoPublicacao": 1689,
+      "isbn": "948-85-359-0297-4",
+      "disponivel": true,
+      "categoriaId": 6,
+      "id": 6
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "anoPublicacao": 1699,
+      "isbn": "948-45-359-0247-4",
+      "disponivel": true,
+      "categoriaId": 7,
+      "id": 7
+    },
+    {
+      "titulo": "Leonardo da Vinci",
+      "autor": "Walter Isaacson",
+      "anoPublicacao": 1699,
+      "isbn": "998-45-359-0247-4",
+      "disponivel": true,
+      "categoriaId": 8,
+      "id": 8
+    },
+    {
+      "titulo": "O Fim da História e o Último Homem",
+      "autor": "Francis Fukuyama",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 9
+    },
+    {
+      "titulo": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 10
+    },
+    {
+      "titulo": "Os Pilares da Terra",
+      "autor": "Hilary Mantel",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 11
+    },
+    {
+      "titulo": "As Crônicas de Arthur",
+      "autor": "Anthony Doerr",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 12
+    },
+    {
+      "titulo": "Toda Luz que Não Podemos Ver",
+      "autor": "Philippa Gregory",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 13
+    },
+    {
+      "titulo": "Guerra e Paz",
+      "autor": "F. Scott Fitzgerald",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 14
+    },
+    {
+      "titulo": "O Grande Gatsby",
+      "autor": "Gabriel García Márquez",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 15
+    },
+    {
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Isaac Asimov",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 16
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 17
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 18
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 19
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 20
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 21
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 22
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 23
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 24
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Philip K. Dick",
+      "anoPublicacao": 1799,
+      "isbn": "918-45-359-0647-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 25
+    }
+  ]
+}

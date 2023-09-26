@@ -1,0 +1,49 @@
+GET http://localhost:3000/livros?_sort=nome&_order=desc  
+ Orderna os nomes dos livros de forma decrescente 
+  
+ GET http://localhost:3000/livros?_sort=titulo&_order=asc   
+ Ordena os titulos dos livros de forma crescente 
+  
+ GET http://localhost:3000/livros?_page=1&_limit=3 
+ Cada pagina retorna 3 livros 
+  
+ GET http://localhost:3000/livros?name=Origens  
+ Filtro do nome de livro 
+  
+ GET http://localhost:3000/posts?categoriaId=2  
+ Filtro por codigo de categoria com o get 
+  
+ GET http://localhost:3000/posts?title=Post&userId=1  
+ Filtro por codigo de usuario com o get 
+  
+  
+ Resources : 
+  
+ http://localhost:3000/categorias 
+  
+ Get - /categorias (busca todas as categorias) 
+ Get - /categorias/1 (busca a categoria pelo id) 
+  
+ Post - /categorias (salva uma categoria) 
+  
+ Put - /categorias/1 (atualiza os dados de uma categoria) 
+  
+ Patch - /categorias/1 (atualiza parte dos dados de uma categoria) 
+  
+ Delete - /categorias/1 (Remove uma categoria) 
+  
+ http://localhost:3000/livros 
+  
+ Get - /livros (busca todos os livros) 
+ Get - /livros/1 (busca o livro pelo id) 
+  
+ Post - /livros (salva um livro) 
+  
+ Put - /livros/1 (atualiza os dados de um livro) 
+  
+ Patch - /livros/1 (atualiza parte dos dados de um livro) 
+  
+ Delete - /livros/1 (Remove um livro) 
+  
+ Home :
+http://localhost:3000
